@@ -67,7 +67,7 @@
 	background-size: 100% 285px, cover;;
 }
 .cube-2 .front {
-	background:url(images/bg1.jpg) no-repeat 50% -7vw;
+	background:url(images/bg1.jpg no-repeat 50% -7vw;
 	-webkit-background-size: 100% 285px, cover;;
 	background-size: 100% 285px, cover;;
 }
